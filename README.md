@@ -27,12 +27,12 @@ Tengo experiencia trabajando tanto en empresas privadas como como freelance.
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
   ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 
 
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-Python-black?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
