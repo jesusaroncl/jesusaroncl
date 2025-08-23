@@ -1,10 +1,10 @@
 <p align="center">
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> 
+	<a href="#"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> 
 </p>
 <p align="center">
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> 
-	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a> 
-	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a> 
+	<a href="https://www.linkedin.com/in/gonzalo-cárdenas-7aa775249"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> 
+	<a href="#"><img src="imgs/twitter.svg" alt="Twitter"></a> 
+	<a href="https://github.com/jesusaroncl"><img src="imgs/github.svg" alt="GitHub"></a> 
 </p>
 
 <h3>ACERCA DE MÍ</h3>
