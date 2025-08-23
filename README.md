@@ -23,13 +23,12 @@ Tengo experiencia trabajando tanto en empresas privadas como como freelance.
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
 <h6>DESARROLLO WEB</h6>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
 <h6>BASE DE DATOS</h6>
 
@@ -52,7 +51,6 @@ Tengo experiencia trabajando tanto en empresas privadas como como freelance.
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 
 <h6>TESTING</h6>
 
