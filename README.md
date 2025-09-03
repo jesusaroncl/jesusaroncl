@@ -9,7 +9,7 @@
 
 <h3>ACERCA DE MÍ</h3>
 
-¡Hola! Soy Gonzalo Jesús Cárdenas Lizana, un entusiasta estudiante de ingeniería de sistemas de información en la Universidad Peruana de Ciencias Aplicadas. Apasionado por la programación y la tecnología, me concentro principalmente en el desarrollo web, especialmente en el frontend. Encuentro en la creación de experiencias de usuario intuitivas y atractivas un desafío gratificante. Con una variedad de habilidades que van desde la resolución de problemas hasta la comunicación efectiva y el trabajo en equipo, me dedico a crear soluciones innovadoras que impacten positivamente en nuestro mundo.
+Soy Gonzalo Jesús Cárdenas Lizana, estudiante de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas. Mi enfoque abarca un amplio rango de tecnologías y herramientas, desde el análisis de datos hasta el desarrollo de soluciones tecnológicas integrales. Me especializo en transformar problemas complejos en soluciones eficientes, optimizando procesos y mejorando la toma de decisiones mediante el uso de tecnologías como bases de datos, programación, y análisis de datos. Mi objetivo es aplicar mis conocimientos para impulsar la innovación y la mejora continua en entornos empresariales.
 
 <h3>EXPERIENCIA</h3>
 
