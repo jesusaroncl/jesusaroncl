@@ -9,7 +9,7 @@ Soy Gonzalo Jesús Cárdenas Lizana, estudiante de Ingeniería de Sistemas de In
 
 <h3>EXPERIENCIA</h3>
 
-Tengo experiencia trabajando tanto en empresas privadas como como freelance.
+Tengo experiencia trabajando tanto en empresas privadas como freelance.
 
 <h3>TECNOLOGIAS</h3>
 
