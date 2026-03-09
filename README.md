@@ -1,8 +1,3 @@
-<p align="center">
-	<a href="https://www.linkedin.com/in/gonzalo-cárdenas-7aa775249"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> 
-	<a href="https://github.com/jesusaroncl"><img src="imgs/github.svg" alt="GitHub"></a> 
-</p>
-
 <h3>ACERCA DE MÍ</h3>
 
 Soy Gonzalo Jesús Cárdenas Lizana, estudiante de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas. Mi enfoque abarca un amplio rango de tecnologías y herramientas, desde el análisis de datos hasta el desarrollo de soluciones tecnológicas integrales. Me especializo en transformar problemas complejos en soluciones eficientes, optimizando procesos y mejorando la toma de decisiones mediante el uso de tecnologías como bases de datos, programación, y análisis de datos. Mi objetivo es aplicar mis conocimientos para impulsar la innovación y la mejora continua en entornos empresariales.
