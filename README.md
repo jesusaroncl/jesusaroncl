@@ -83,8 +83,16 @@ Cuento con experiencia trabajando en empresas privadas y proyectos freelance, pa
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jesusaroncl&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusaroncl&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jesusaroncl&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusaroncl&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jesusaroncl&theme=tokyonight&hide_border=true" />
 
 </p>
 
