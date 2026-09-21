@@ -12,31 +12,22 @@ Bachiller en Ingeniería de Sistemas de Información | Desarrollo de Software | 
 
 <h2>ACERCA DE MÍ</h2>
 
-Soy Gonzalo Jesús Cárdenas Lizana, Bachiller en Ingeniería de Sistemas de Información por la Universidad Peruana de Ciencias Aplicadas (UPC).
-
-Mi perfil está enfocado en el desarrollo de soluciones tecnológicas, análisis de datos y optimización de procesos empresariales mediante el uso estratégico de la tecnología.
-
-Cuento con experiencia trabajando en empresas privadas y proyectos freelance, participando en el análisis, diseño y desarrollo de soluciones digitales orientadas a mejorar la eficiencia operativa y la toma de decisiones.
-
-Me especializo en transformar requerimientos y problemas complejos en soluciones tecnológicas eficientes mediante programación, bases de datos, desarrollo web y herramientas modernas de software.
-
-Mi objetivo profesional es contribuir en proyectos de innovación tecnológica, aplicando buenas prácticas de ingeniería de software y generando soluciones escalables que aporten valor a las organizaciones.
-
+Soy Bachiller en Ingeniería de Sistemas de Información por la Universidad Peruana de Ciencias Aplicadas (UPC).
+Mi formación y experiencia están orientadas al desarrollo de aplicaciones, gestión de datos y creación de soluciones digitales enfocadas en mejorar procesos y facilitar la toma de decisiones.
+Tengo interés en la ingeniería de software, el desarrollo web y la aplicación de tecnologías modernas para construir sistemas eficientes, escalables y alineados con las necesidades de las organizaciones.
 
 ---
 
 <h2>EXPERIENCIA</h2>
 
-Experiencia desarrollando soluciones tecnológicas en entornos empresariales y proyectos independientes.
-
-Áreas de experiencia:
+Cuento con experiencia trabajando en empresas privadas y proyectos freelance, participando en actividades relacionadas con:
 
 - Análisis y levantamiento de requerimientos.
 - Desarrollo de aplicaciones web.
 - Diseño y administración de bases de datos.
 - Desarrollo de servicios backend y APIs.
-- Integración de tecnologías.
-- Optimización y automatización de procesos.
+- Integración de herramientas tecnológicas.
+- Soporte y mejora continua de soluciones digitales.
 
 
 ---
@@ -46,99 +37,44 @@ Experiencia desarrollando soluciones tecnológicas en entornos empresariales y p
 
 <h4>HERRAMIENTAS</h4>
 
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode)
-
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/> <img src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode"/> <img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea"/>
+</p>
 
 
 <h4>DESARROLLO WEB</h4>
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+<p>
+<img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
+</p>
 
 
 <h4>BASES DE DATOS</h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-
-![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
-
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+<p>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/> <img src="https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase"/> <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/>
+</p>
 
 
-<h4>FRAMEWORKS Y LIBRERÍAS</h4>
+<h4>FRAMEWORKS</h4>
 
-![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular)
-
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot)
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+<p>
+<img src="https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular"/> <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot"/> <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs"/>
+</p>
 
 
 <h4>LENGUAJES</h4>
 
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
-
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+<p>
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/> <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
+</p>
 
 
-<h4>TESTING</h4>
+<h4>TESTING Y REDES</h4>
 
-![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium)
-
-
-<h4>REDES</h4>
-
-![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
-
----
-
-<h2>PROYECTOS</h2>
-
-<h4>Sistemas Web Empresariales</h4>
-
-Desarrollo de aplicaciones orientadas a mejorar procesos internos mediante automatización, gestión de información y optimización operativa.
-
-Tecnologías utilizadas:
-
-- Frontend.
-- Backend.
-- Bases de datos.
-- APIs.
-
-
-<h4>Análisis y Gestión de Datos</h4>
-
-Implementación de soluciones para procesamiento, organización y análisis de información orientadas a facilitar la toma de decisiones.
-
-
-<h4>Desarrollo Freelance</h4>
-
-Participación en proyectos tecnológicos personalizados, desarrollando soluciones adaptadas a las necesidades específicas de cada cliente.
+<p>
+<img src="https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium"/> <img src="https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco"/>
+</p>
 
 
 ---
@@ -146,8 +82,10 @@ Participación en proyectos tecnológicos personalizados, desarrollando solucion
 <h2>ESTADÍSTICAS DE GITHUB</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jesusaroncl&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusaroncl&layout=compact&theme=tokyonight" />
+
 </p>
 
 
@@ -155,16 +93,29 @@ Participación en proyectos tecnológicos personalizados, desarrollando solucion
 
 <h2>CONTACTO</h2>
 
-LinkedIn:
-[https://www.linkedin.com/in/TU_LINKEDIN/](https://www.linkedin.com/in/gonzalo-c-7aa775249/)
+<p align="left">
 
+<a href="https://gonzalocardenas.pe" target="_blank">
+<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
 
-Email:
-jesusaroncl@gmail.com
+<a href="https://www.linkedin.com/in/gonzalo-c-7aa775249/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesusaroncl">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jesusaroncl" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 
 ---
 
 <h3 align="center">
-Construyendo soluciones tecnológicas mediante ingeniería, innovación y mejora continua.
+Tecnología, innovación y soluciones digitales para resolver desafíos reales.
 </h3>
